@@ -38,7 +38,7 @@ var toyProblems = {
   insertionSort : 'red',
   characterFrequency : 'red',
   treeMap : 'red',
-  sumArray : 'red',
+  sumArray : 'green',
   numberToEnglish : 'red',
   telephoneWords : 'red'
 };
