@@ -4,7 +4,7 @@
 
 var toyProblems = {
   rockPaperScissors :'red',
-  isSubsetOf : 'red',
+  isSubsetOf : 'green',
   nonRepeatedCharacter : 'red',
   nthFibonacci : 'red',
   bubbleSort : 'red',
