@@ -7,7 +7,7 @@ var toyProblems = {
   isSubsetOf : 'green',
   nonRepeatedCharacter : 'red',
   nthFibonacci : 'red',
-  bubbleSort : 'red',
+  bubbleSort : 'green',
   commonCharacters : 'red',
   largestProductOfThree : 'red',
   treeDFSelect : 'red',
