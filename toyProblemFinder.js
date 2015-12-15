@@ -3,7 +3,7 @@
 // Green = Solved without struggle | Yellow = Solved with struggle | Red = Couldn't solve without solution
 
 var toyProblems = {
-  rockPaperScissors :'red',
+  rockPaperScissors :'yellow',
   isSubsetOf : 'green',
   nonRepeatedCharacter : 'red',
   nthFibonacci : 'red',
@@ -19,7 +19,7 @@ var toyProblems = {
   composePipe : 'red',
   rotatedArraySearch : 'red',
   rangeClass : 'red',
-  asyncMap : 'red',
+  asyncMap : 'yellow',
   balancedParens : 'red',
   longestRun : 'red',
   mergeSort : 'red',
@@ -38,7 +38,7 @@ var toyProblems = {
   insertionSort : 'red',
   characterFrequency : 'red',
   treeMap : 'red',
-  sumArray : 'green',
+  sumArray : 'yellow',
   numberToEnglish : 'red',
   telephoneWords : 'red'
 };
