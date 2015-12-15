@@ -40,7 +40,8 @@ var toyProblems = {
   treeMap : 'red',
   sumArray : 'yellow',
   numberToEnglish : 'red',
-  telephoneWords : 'red'
+  telephoneWords : 'yellow',
+  functionBind: 'red'
 };
 
 function toyProblemFinder(toyProblems) {
