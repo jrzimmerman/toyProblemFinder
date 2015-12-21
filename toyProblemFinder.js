@@ -41,7 +41,10 @@ var toyProblems = {
   sumArray : 'yellow',
   numberToEnglish : 'red',
   telephoneWords : 'yellow',
-  functionBind: 'red'
+  functionBind: 'red',
+  coinSums: 'red',
+  arrayception: 'red',
+  eventingLibrary: 'red'
 };
 
 function toyProblemFinder(toyProblems) {
