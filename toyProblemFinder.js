@@ -3,7 +3,7 @@
 // Green = Solved without struggle | Yellow = Solved with struggle | Red = Couldn't solve without solution
 
 var toyProblems = {
-  rockPaperScissors :'yellow',
+  rockPaperScissors :'green',
   isSubsetOf : 'green',
   nonRepeatedCharacter : 'red',
   nthFibonacci : 'red',
