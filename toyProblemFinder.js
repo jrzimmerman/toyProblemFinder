@@ -43,7 +43,7 @@ var toyProblems = {
   telephoneWords : 'yellow',
   functionBind: 'red',
   coinSums: 'red',
-  arrayception: 'red',
+  arrayception: 'yellow',
   eventingLibrary: 'red'
 };
 
