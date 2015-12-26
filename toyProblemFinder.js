@@ -32,7 +32,7 @@ var toyProblems = {
   hashTable : 'red',
   queueStack : 'red',
   robotPaths : 'red',
-  evenOccurance : 'red',
+  evenOccurance : 'yellow',
   treeCountLeaves : 'red',
   primeTester : 'red',
   insertionSort : 'red',
