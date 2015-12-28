@@ -20,7 +20,7 @@ var toyProblems = {
   rotatedArraySearch : 'red',
   rangeClass : 'red',
   asyncMap : 'yellow',
-  balancedParens : 'red',
+  balancedParens : 'yellow',
   longestRun : 'red',
   mergeSort : 'red',
   fractionConverter : 'red',
