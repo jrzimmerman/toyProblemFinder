@@ -44,7 +44,10 @@ var toyProblems = {
   functionBind: 'red',
   coinSums: 'red',
   arrayception: 'yellow',
-  eventingLibrary: 'red'
+  eventingLibrary: 'red',
+  hashTableResize: 'red',
+  linkedListCycles: 'red',
+  allAnagrams: 'red'
 };
 
 function toyProblemFinder(toyProblems) {
