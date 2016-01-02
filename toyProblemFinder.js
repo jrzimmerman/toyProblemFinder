@@ -10,7 +10,7 @@ var toyProblems = {
   bubbleSort : 'green',
   commonCharacters : 'red',
   largestProductOfThree : 'red',
-  treeDFSelect : 'red',
+  treeDFSelect : 'yellow',
   deepEquality : 'red',
   htmljQueryColor : 'red',
   binarySearchArray : 'red',
