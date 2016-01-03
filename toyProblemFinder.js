@@ -28,7 +28,7 @@ var toyProblems = {
   matrixRotation : 'red',
   romanNumeralTranslator : 'red',
   linkedList : 'red',
-  tree : 'red',
+  tree : 'yellow',
   hashTable : 'red',
   queueStack : 'red',
   robotPaths : 'red',
