@@ -47,7 +47,7 @@ var toyProblems = {
   eventingLibrary: 'red',
   hashTableResize: 'red',
   linkedListCycles: 'red',
-  allAnagrams: 'red',
+  allAnagrams: 'yellow',
   longestPalindrome: 'red',
   onlyUnique: 'red'
 };
