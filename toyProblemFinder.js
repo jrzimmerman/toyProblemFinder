@@ -14,7 +14,7 @@ var toyProblems = {
   deepEquality : 'red',
   htmljQueryColor : 'red',
   binarySearchArray : 'red',
-  treeBFSelect : 'red',
+  treeBFSelect : 'yellow',
   powerSet : 'red',
   composePipe : 'red',
   rotatedArraySearch : 'red',
