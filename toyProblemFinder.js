@@ -13,7 +13,7 @@ var toyProblems = {
   treeDFSelect : 'yellow',
   deepEquality : 'red',
   htmljQueryColor : 'red',
-  binarySearchArray : 'red',
+  binarySearchArray : 'yellow',
   treeBFSelect : 'yellow',
   powerSet : 'red',
   composePipe : 'red',
