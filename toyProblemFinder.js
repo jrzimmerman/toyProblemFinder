@@ -35,7 +35,7 @@ var toyProblems = {
   evenOccurance : 'green',
   treeCountLeaves : 'red',
   primeTester : 'red',
-  insertionSort : 'red',
+  insertionSort : 'yellow',
   characterFrequency : 'red',
   treeMap : 'red',
   sumArray : 'yellow',
